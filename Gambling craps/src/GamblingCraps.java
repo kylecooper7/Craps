@@ -5,7 +5,7 @@ public class GamblingCraps
 		public static void main(String[] args)
 			{
 				// TODO Auto-generated method stub
-				
+				// i Pushed
 				Scanner userInput = new Scanner(System.in);
 				boolean flag2 = true;
 				boolean flag3 = true;
